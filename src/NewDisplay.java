@@ -1,9 +1,9 @@
 
-public class Display {
+public class NewDisplay {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("This is display class. Edited by Praveen");
+		System.out.println("This is display class. New Display");
 	}
 
 }
